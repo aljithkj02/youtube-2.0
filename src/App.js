@@ -11,7 +11,9 @@ function App() {
       <Header />
       <div className={`grid gap-5 px-5 ${isMenuOpen ? "grid-cols-[1fr_7fr]" : "grid-cols-1"} pt-16 relative`}>
         { isMenuOpen && <Sidebar /> }
-        <Outlet />
+        <div className="ml-10">
+          <Outlet />
+        </div>
       </div>
     </div>
   );

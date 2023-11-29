@@ -6,7 +6,7 @@ export const VideoCard = ({ statistics, snippet }) => {
     const { viewCount } = statistics;
     
     return (
-        <div>
+        <>
             <div>
                 <img src={url} alt={title} 
                     className='h-[180px] w-full object-cover rounded-xl hover:rounded-none duration-200'
@@ -19,6 +19,6 @@ export const VideoCard = ({ statistics, snippet }) => {
                 <p className='text-gray-500 text-sm'>{ channelTitle }</p>
                 <p className='text-gray-500 text-sm'>{ convertViewCount(viewCount) }</p>
             </div>
-        </div>
+        </>
     )
 }
