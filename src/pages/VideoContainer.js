@@ -5,6 +5,7 @@ import { closeToggleMenu } from "../redux/appSlice";
 import { Video } from "../components/Video";
 import { convertViewCount } from "../utils";
 import { RecommendedVideo } from "../components/RecommendedVideo";
+import { LiveChat } from "../components/LiveChat";
 
 const VideoContainer = () => {
     const [params] = useSearchParams();
@@ -23,7 +24,7 @@ const VideoContainer = () => {
     const { viewCount } = statistics;
     
     return ( 
-        <div className="grid grid-cols-[2.5fr_1fr] gap-6 cursor-pointer">
+        <div className="grid grid-cols-[2.5fr_1fr] gap-6">
             <div>
                 <Video videoId={videoId} />
                 <div className="mt-4">
@@ -32,11 +33,12 @@ const VideoContainer = () => {
                 </div>
             </div>
             <div className="flex flex-col gap-2">
-                {
+                {/* {
                     popularVideos && popularVideos.map((item) => {
                         return item.id !== videoId ? <RecommendedVideo key={item.id} {...item} /> : null
                     })
-                }
+                } */}
+                <LiveChat />
             </div>
         </div>
     );

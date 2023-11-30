@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "message": "Hello!"
+    },
+    {
+        "id": 2,
+        "name": "Alice",
+        "message": "How are you?"
+    },
+    {
+        "id": 3,
+        "name": "Bob",
+        "message": "Coding is fun!"
+    },
+    {
+        "id": 4,
+        "name": "Eva",
+        "message": "Stay positive!"
+    },
+    {
+        "id": 5,
+        "name": "David",
+        "message": "Keep it up!"
+    },
+    {
+        "id": 6,
+        "name": "Sophia",
+        "message": "Learn, grow, repeat."
+    },
+    {
+        "id": 7,
+        "name": "Michael",
+        "message": "Be kind to one another."
+    },
+    {
+        "id": 8,
+        "name": "Olivia",
+        "message": "Explore new horizons!"
+    },
+    {
+        "id": 9,
+        "name": "Daniel",
+        "message": "Embrace challenges!"
+    },
+    {
+        "id": 10,
+        "name": "Emma",
+        "message": "Dream big!"
+    },
+    {
+        "id": 11,
+        "name": "Alex",
+        "message": "Create your path!"
+    },
+    {
+        "id": 12,
+        "name": "Sophie",
+        "message": "Celebrate small victories!"
+    },
+    {
+        "id": 13,
+        "name": "Ben",
+        "message": "Challenge the status quo!"
+    },
+    {
+        "id": 14,
+        "name": "Grace",
+        "message": "Persevere through obstacles!"
+    },
+    {
+        "id": 15,
+        "name": "Ryan",
+        "message": "Inspire others!"
+    },
+    {
+        "id": 16,
+        "name": "Lily",
+        "message": "Stay curious!"
+    },
+    {
+        "id": 17,
+        "name": "Jack",
+        "message": "Learn from failures!"
+    },
+    {
+        "id": 18,
+        "name": "Mia",
+        "message": "Spread kindness!"
+    },
+    {
+        "id": 19,
+        "name": "Leo",
+        "message": "Believe in yourself!"
+    },
+    {
+        "id": 20,
+        "name": "Zoe",
+        "message": "Make a difference!"
+    },
+    {
+        "id": 21,
+        "name": "Nathan",
+        "message": "Stay determined!"
+    },
+    {
+        "id": 22,
+        "name": "Hannah",
+        "message": "Enjoy the journey!"
+    },
+    {
+        "id": 23,
+        "name": "Carter",
+        "message": "Be resilient!"
+    },
+    {
+        "id": 24,
+        "name": "Ava",
+        "message": "Strive for excellence!"
+    },
+    {
+        "id": 25,
+        "name": "Isaac",
+        "message": "Chase your dreams!"
+    },
+    {
+        "id": 26,
+        "name": "Chloe",
+        "message": "Learn, adapt, grow!"
+    },
+    {
+        "id": 27,
+        "name": "Owen",
+        "message": "Stay positive!"
+    },
+    {
+        "id": 28,
+        "name": "Harper",
+        "message": "Create your legacy!"
+    },
+    {
+        "id": 29,
+        "name": "Ethan",
+        "message": "Embrace change!"
+    },
+    {
+        "id": 30,
+        "name": "Madison",
+        "message": "Stay true to yourself!"
+    },
+    {
+        "id": 31,
+        "name": "Aiden",
+        "message": "Be fearless!"
+    },
+    {
+        "id": 32,
+        "name": "Emily",
+        "message": "Celebrate diversity!"
+    },
+    {
+        "id": 33,
+        "name": "Logan",
+        "message": "Work hard, stay humble!"
+    },
+    {
+        "id": 34,
+        "name": "Abigail",
+        "message": "Be kind to yourself!"
+    },
+    {
+        "id": 35,
+        "name": "Mason",
+        "message": "Never stop learning!"
+    },
+    {
+        "id": 36,
+        "name": "Ella",
+        "message": "Seek adventure!"
+    },
+    {
+        "id": 37,
+        "name": "Lucas",
+        "message": "Inspire and be inspired!"
+    },
+    {
+        "id": 38,
+        "name": "Avery",
+        "message": "Find joy in the journey!"
+    },
+    {
+        "id": 39,
+        "name": "Liam",
+        "message": "Dream, believe, achieve!"
+    },
+    {
+        "id": 40,
+        "name": "Scarlett",
+        "message": "Make a positive impact!"
+    },
+    {
+        "id": 41,
+        "name": "Wyatt",
+        "message": "Strive for greatness!"
+    },
+    {
+        "id": 42,
+        "name": "Aria",
+        "message": "Be resilient in adversity!"
+    },
+    {
+        "id": 43,
+        "name": "Jayden",
+        "message": "Embrace the unknown!"
+    },
+    {
+        "id": 44,
+        "name": "Grace",
+        "message": "Live with purpose!"
+    },
+    {
+        "id": 45,
+        "name": "Matthew",
+        "message": "Chase your passions!"
+    },
+    {
+        "id": 46,
+        "name": "Aubrey",
+        "message": "Spread love and positivity!"
+    },
+    {
+        "id": 47,
+        "name": "Caleb",
+        "message": "You are capable of greatness!"
+    },
+    {
+        "id": 48,
+        "name": "Luna",
+        "message": "Believe in your potential!"
+    },
+    {
+        "id": 49,
+        "name": "Jackson",
+        "message": "Stay curious, stay humble!"
+    },
+    {
+        "id": 50,
+        "name": "Piper",
+        "message": "Make every moment count!"
+    }
+]

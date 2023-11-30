@@ -2,7 +2,7 @@ import React from 'react'
 import { useVideos } from '../hooks/useVideos'
 import { useSelector } from 'react-redux'
 import { VideoCard } from '../components/VideoCard'
-import { Link, useNavigate } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom'
 
 const tags = ["All", "Music", "Live", "Bollywood Music", "T-Series", "Ceremonies", "Mantras"];
 

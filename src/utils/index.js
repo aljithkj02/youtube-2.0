@@ -15,3 +15,7 @@ export const convertViewCount = (views) => {
         return `${views} views`
     }
 }
+
+export const generateNumber = (start, end) => {
+    return Math.floor(((end - start) * Math.random()) + start);
+}
